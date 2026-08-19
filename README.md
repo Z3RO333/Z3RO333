@@ -20,7 +20,7 @@ I build **full-stack applications, internal platforms, automations and AI-powere
 
 My experience includes web development, APIs, databases, cloud infrastructure, analytics, enterprise integrations, process automation and local / generative AI workloads.
 
-- 🔭 Building systems for **maintenance, fleet operations, document management, routing and refrigeration**
+- 🔭 Building systems for **maintenance, fleet operations, document management, routing, sustainability and refrigeration**
 - 🤖 Working with **Generative AI, local LLMs, Azure OpenAI and intelligent automation**
 - 🐧 Daily experience with **Linux / Ubuntu environments**
 - 📊 Data and analytics using **Databricks, SQL, PostgreSQL and Pandas**
@@ -92,7 +92,7 @@ My experience includes web development, APIs, databases, cloud infrastructure, a
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
-**Also experienced with:** Azure Container Apps, Azure Document Intelligence, AI Builder, MapLibre, Leaflet, OSRM, PDF/XLSX processing, OCR, CI/CD and enterprise integrations.
+**Also experienced with:** Azure Container Apps, Azure Blob Storage, Azure Document Intelligence, AI Builder, MapLibre, Leaflet, OSRM, PDF/XLSX processing, OCR, PWA, CI/CD and enterprise integrations.
 
 ---
 
@@ -174,6 +174,23 @@ Operational fleet platform covering documents, tires, drivers, dashboards and au
 <tr>
 <td width="50%" valign="top">
 
+### 🌱 EcoTracker
+
+Full-stack sustainability and environmental operations platform with dashboards, tablet PWA and analytics integrations.
+
+**Stack**
+- Next.js 16 / React 19
+- TypeScript
+- PostgreSQL
+- Databricks SQL
+- Azure Blob Storage
+- Recharts / PWA
+
+[View repository →](https://github.com/Z3RO333/Ecology)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🤖 SAP Automation / RPA
 
 Python application for automating SAP operational workflows through SAP GUI Scripting.
@@ -187,20 +204,6 @@ Python application for automating SAP operational workflows through SAP GUI Scri
 - Error handling
 
 [View repository →](https://github.com/Z3RO333/SAP-AUT-RPA)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Ecology
-
-Space for sustainability and technology projects, currently under evolution.
-
-**Focus**
-- Operational sustainability
-- Data-driven workflows
-- Process digitization
-
-[View repository →](https://github.com/Z3RO333/Ecology)
 
 </td>
 </tr>
