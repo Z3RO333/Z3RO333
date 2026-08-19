@@ -1,146 +1,246 @@
+<div align="center">
+
 # Gustavo Andrade
 
-**Full-Stack Developer | AI & Automation | Cloud & Data**
+### Full-Stack Developer • AI & Automation • Cloud & Data
 
-Desenvolvedor focado em criação de soluções reais para operações, automação de processos e sistemas internos. Tenho experiência prática com desenvolvimento Full-Stack, integração de APIs, bancos de dados, inteligência artificial, automações corporativas e ambientes Linux.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Building+real-world+systems+with+AI+and+automation;Full-Stack+development+%7C+Cloud+%7C+Data;Linux+%2F+Ubuntu+%7C+Databricks+%7C+Azure;Turning+manual+processes+into+smart+platforms" alt="Typing SVG" />
 
-Meu trabalho é voltado para transformar processos manuais em plataformas digitais mais rápidas, rastreáveis e inteligentes.
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=Z3RO333&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
-## Sobre mim
-
-- Desenvolvimento de aplicações web e sistemas internos
-- Automação de processos operacionais e administrativos
-- Integrações com APIs, SAP, Supabase e serviços Microsoft
-- Aplicações com IA generativa e LLMs locais
-- Dashboards, analytics e processamento de dados
-- Experiência com Linux / Ubuntu e ambientes cloud
+</div>
 
 ---
 
-## Stack
+## 👨‍💻 About me
+
+I build **full-stack applications, internal platforms, automations and AI-powered systems** focused on solving real operational problems.
+
+My experience includes web development, APIs, databases, cloud infrastructure, analytics, enterprise integrations, process automation and local / generative AI workloads.
+
+- 🔭 Building systems for **maintenance, fleet operations, document management, routing and refrigeration**
+- 🤖 Working with **Generative AI, local LLMs, Azure OpenAI and intelligent automation**
+- 🐧 Daily experience with **Linux / Ubuntu environments**
+- 📊 Data and analytics using **Databricks, SQL, PostgreSQL and Pandas**
+- ☁️ Cloud experience with **Microsoft Azure and Supabase**
+- ⚙️ Strong interest in **automation, backend architecture, AI agents and system integration**
+
+---
+
+## 🧰 Tech Stack
 
 ### Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
 ### Backend & APIs
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
 
 ### Data & Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-### Linux, Cloud & DevOps
+### Linux • Cloud • DevOps
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
 ### AI & Automation
 
-![OpenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Local LLMs](https://img.shields.io/badge/Local_LLMs-111111?style=for-the-badge&logo=ollama&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Local_LLMs-111111?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+</p>
 
 ### Enterprise & Integrations
 
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-512BD4?style=for-the-badge&logo=microsoft&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
 
-Também tenho experiência com **Azure Container Apps, Azure Document Intelligence, AI Builder, Power Apps/Forms, Outlook/Teams integrations, MapLibre, Leaflet, OSRM, PDF processing, XLSX automation e CI/CD**.
+**Also experienced with:** Azure Container Apps, Azure Document Intelligence, AI Builder, MapLibre, Leaflet, OSRM, PDF/XLSX processing, OCR, CI/CD and enterprise integrations.
 
 ---
 
-## Projetos em destaque
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### ❄️ AI Refrigeration Platform
 
-Plataforma de monitoramento e automação para sistemas de refrigeração e climatização, combinando **LLMs locais, IA generativa, Linux/Ubuntu e automação operacional**.
+AI-powered monitoring and automation platform for refrigeration and HVAC environments.
 
-**Destaques:** monitoramento inteligente, análise de estados de equipamentos, regras de decisão automatizadas e integração com modelos locais.
+**Highlights**
+- Local LLMs
+- Generative AI
+- Linux / Ubuntu
+- Equipment monitoring
+- Intelligent operational rules
 
-[Ver projeto](https://github.com/Z3RO333/REFRIGERA-O)
+[View repository →](https://github.com/Z3RO333/REFRIGERA-O)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🧾 Cockpit de Distribuição de Notas e Ordens
+### 🧾 Maintenance Notes Cockpit
 
-Plataforma Full-Stack para distribuição de notas, acompanhamento de ordens de manutenção, analytics e gestão operacional.
+Full-stack platform for distributing notes, managing maintenance orders and operational analytics.
 
-**Stack:** Next.js 15, React 19, TypeScript, Supabase/PostgreSQL, Microsoft Entra ID, Databricks, Vitest e Playwright.
+**Stack**
+- Next.js 15
+- React 19
+- TypeScript
+- Supabase / PostgreSQL
+- Databricks
+- Microsoft Entra ID
 
-[Ver projeto](https://github.com/Z3RO333/notas)
+[View repository →](https://github.com/Z3RO333/notas)
 
----
+</td>
+</tr>
 
-### 📄 Central Inteligente de Documentos
+<tr>
+<td width="50%" valign="top">
 
-Sistema para envio, revisão, assinatura, consulta e processamento inteligente de documentos.
+### 📄 Intelligent Document Center
 
-**Stack:** Next.js, Supabase, Azure OpenAI, Azure Document Intelligence, CI/CD e integrações corporativas.
+Platform for document submission, review, signatures, processing and intelligent analysis.
 
-[Ver projeto](https://github.com/Z3RO333/app)
+**Stack**
+- Next.js
+- Supabase
+- Azure OpenAI
+- Azure Document Intelligence
+- CI/CD
 
----
+[View repository →](https://github.com/Z3RO333/app)
 
-### 🚚 Plataforma de Gestão de Frotas
+</td>
+<td width="50%" valign="top">
 
-Sistema para gestão operacional de frotas, documentos, pneus, motoristas, dashboards e automações.
+### 🚚 Fleet Management Platform
 
-**Stack:** Next.js 16, React 19, TypeScript, Supabase, OpenAI, OCR, PDFs, XLSX e analytics.
+Operational fleet platform covering documents, tires, drivers, dashboards and automation workflows.
 
-[Ver projeto](https://github.com/Z3RO333/FROTAS)
+**Stack**
+- Next.js 16
+- React 19
+- TypeScript
+- Supabase
+- OpenAI
+- OCR / PDF / XLSX
 
----
+[View repository →](https://github.com/Z3RO333/FROTAS)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 SAP Automation / RPA
 
-Aplicação em Python para automação de processos SAP através de SAP GUI Scripting, com logs, tratamento de falhas, screenshots e fluxos para diversas transações.
+Python application for automating SAP operational workflows through SAP GUI Scripting.
 
-**Stack:** Python, Tkinter, pywin32, SAP GUI Scripting, PyInstaller e Inno Setup.
+**Highlights**
+- Python
+- Tkinter
+- pywin32
+- SAP GUI Scripting
+- Logging & screenshots
+- Error handling
 
-[Ver projeto](https://github.com/Z3RO333/SAP-AUT-RPA)
+[View repository →](https://github.com/Z3RO333/SAP-AUT-RPA)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Ecology
+
+Space for sustainability and technology projects, currently under evolution.
+
+**Focus**
+- Operational sustainability
+- Data-driven workflows
+- Process digitization
+
+[View repository →](https://github.com/Z3RO333/Ecology)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## O que eu gosto de construir
+## 📊 GitHub Analytics
 
-Sistemas que resolvem problemas operacionais reais: automação de tarefas repetitivas, integração entre plataformas, dashboards, monitoramento em tempo real, inteligência artificial aplicada a processos e ferramentas internas para melhorar produtividade.
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Z3RO333&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z3RO333&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Z3RO333&theme=transparent&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Z3RO333&theme=github-compact&hide_border=true&area=true" width="100%" />
+
+</div>
 
 ---
 
-## GitHub Stats
+## 🎯 What I like to build
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z3RO333&show_icons=true&hide_border=true)
+> Systems that remove repetitive work, connect disconnected tools, improve operational visibility and use data + AI to make processes smarter.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3RO333&layout=compact&hide_border=true)
+I am especially interested in **Full-Stack Development, Backend Engineering, AI Automation, Cloud, Data Platforms and Enterprise Systems**.
 
 ---
 
-## Contato
+<div align="center">
 
-- GitHub: [github.com/Z3RO333](https://github.com/Z3RO333)
-- Disponível para oportunidades em **desenvolvimento Full-Stack, automação e inteligência artificial**.
+### 📫 Let's connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Z3RO333-181717?style=for-the-badge&logo=github)](https://github.com/Z3RO333)
+
+**Open to opportunities in Full-Stack Development, AI & Automation.**
+
+</div>
